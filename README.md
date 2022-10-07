@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richandcapable
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Programming and Networking
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate Soon!
 - 📫 How to reach me @muhammadnnnabil
 
 <!---
